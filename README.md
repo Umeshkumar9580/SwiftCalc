@@ -1,6 +1,7 @@
 # SwiftCalc - High Precision AI Calculator
 
 SwiftCalc ek modern, powerful aur intelligent calculator hai jo Next.js, Tailwind CSS aur Genkit AI ke saath banaya gaya hai. Ye sirf basic calculations hi nahi, balki AI ki madad se complex word problems aur currency conversions bhi handle kar sakta hai.
+Live Demo - https://swift-calc-ui.vercel.app/
 
 ## ✨ Features
 
